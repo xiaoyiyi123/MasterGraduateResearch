@@ -20,7 +20,7 @@ There are four sections: the first column is the answers of basic information, t
 Firstly, remove useless data. Here useless data means the data missing meaningful HTP images. After that we got a total 74 useful data.     
 Then, based on the scores of the LSNS-6 scale, we classified those HTP images into two groups. The HTP image with the score below 12 was put into the high social isolation risk group otherwise it was put into the low social isolation risk group.       
 Next, we analyzed these two groups' images to find the similarities and differences and also refered to the related research about Huse-Tree-Person drawing test and finally we identified a set of socialty related features. And use these features as analyze pionts to analyze whether this guy are from social isolation risk or not.      
-![Identified Features](https://github.com/xiaoyiyi123/MasterGraduateResearch/blob/main/image/Identified Features.png) 
+![Identified Features](https://github.com/xiaoyiyi123/MasterGraduateResearch/blob/main/image/Identified%20Features.png) 
     
 ### Use Object Detection Technique to Detect the identified features from HTP images
 
