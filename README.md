@@ -29,6 +29,7 @@ First we use the code shown in the folder as "object detection model.ipynb" [obj
 If you are not farmilar with how to train with google colab, you can click the following link to take as a reference.       
 [Explaination on how to use google colab to train your Object detection model with your own dataset](https://www.youtube.com/watch?v=hTCmL3S4Obw)       
 But if you don't want to train model again you can directly download my pre-trained weight file through [Pre-trained weight file](https://drive.google.com/file/d/1q7LUdfVVtwVgbnEE3HjgpiG9-HAc29XS/view?usp=sharing) then directly use it for detection part.      
+#### Detect identified features from HTP images
 Next, after got pre-trained weight file, you can take the code called ['Test.ipynb'](https://github.com/xiaoyiyi123/MasterGraduateResearch/blob/main/source%20code/Test.ipynb) to detect the object from HTP images.        
 At the end of this step, you can calculate the scores of collected HTP images.
 In my situation, I collected 74 useful data and the average score of HTP is calculated as 8.9. So here we assumed that the images with the score below 8.9 as high risk otherwise no risk.
