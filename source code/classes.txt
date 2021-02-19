@@ -1,0 +1,11 @@
+Window with curtain
+Window Normal
+Window Opened
+Door without Handler
+Door with Handler
+Door Opened
+Person
+Tree
+House
+Road
+car
