@@ -31,12 +31,16 @@ If you are not farmilar with how to train with google colab, you can click the f
 But if you don't want to train model again you can directly download my pre-trained weight file through [Pre-trained weight file](https://drive.google.com/file/d/1q7LUdfVVtwVgbnEE3HjgpiG9-HAc29XS/view?usp=sharing) then directly use it for detection part.      
 Next, after got pre-trained weight file, you can take the code called ['Test.ipynb'](https://github.com/xiaoyiyi123/MasterGraduateResearch/blob/main/source%20code/Test.ipynb) to detect the object from HTP images.        
 At the end of this step, you can calculate the scores of collected HTP images.
+In my situation, I collected 74 useful data and the average score of HTP is calculated as 8.9. So here we assumed that the images with the score below 8.9 as high risk otherwise no risk.
+[test results](https://github.com/xiaoyiyi123/MasterGraduateResearch/blob/main/data/testResultsAnalysis.xlsx)
 
+### Analysis wether our assumption and classification results are reliable or not       
+Do a stastical analysis through SPSS, you can download this software through [SPSS download address](https://www.ibm.com/analytics/spss-statistics-software). But it's only free for one month, I recomend you put the analysis step at the very end step after you got everything.     
+If you are not farmilar with how to use SPSS you can click here [How to use SPSS to analyze data ](https://www.youtube.com/watch?v=Bku1p481z80) to learn how to use it.     
 
-
-
-
-
+That's all the approach of my research.     
+If you continue to do this research, you continue to collect more data, the more HTP images you collected, the results may be a little be difference. Since everyone draw in a different way.       
+Final note: If you get more HTP images, you need to learn [Interpretation of HTP images](https://drive.google.com/file/d/1KpBB5WLclmdTfJ4GHTB8bD9d9g1bDxBU/view?usp=sharing), to check whether there is any other thing can be used to detect social isolation situation.
 
 
 
